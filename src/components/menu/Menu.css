@@ -1,0 +1,22 @@
+
+.menu img {
+    width: 90%;
+    height: 35rem;
+    border-radius: 10px;
+    object-fit:fill;
+
+}
+.main-of-menu h1{
+   color: #f3f3f3;
+}
+.menu{
+    align-items: center;
+    color: #fff;
+    /* background-color: #fff; */
+    left:0;
+    justify-content: center;
+    display: flex;
+}
+.main-of-menu a:hover img{
+    box-shadow: #fff 0px 1px 4px, #fff 0px 0px 0px 4px;
+}

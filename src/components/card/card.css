@@ -1,0 +1,29 @@
+.card img {
+    max-width: 250px;
+    max-height: 350px;
+}
+@media(max-width:1475px){
+    .card img{ 
+        max-width: 200px;
+        max-height: 300px;
+    }
+}
+@media(max-width:1275px){
+    .card img{ 
+        max-width: 150px;
+        max-height: 250px;
+    }
+}
+.card button:hover img {
+    box-shadow: #fff 0px 1px 4px, #fff 0px 0px 0px 3px;
+}
+
+.card button{
+    background-color: #1212120e;
+    border: none;
+}
+.card{
+    width: 350px;
+    height: 450px;
+}
+
