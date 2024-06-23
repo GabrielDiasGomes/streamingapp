@@ -20,3 +20,9 @@
 .main-of-menu a:hover img{
     box-shadow: #fff 0px 1px 4px, #fff 0px 0px 0px 4px;
 }
+@media (max-width: 600px) {
+    .menu img{
+        object-fit:cover;
+    }
+    
+    }

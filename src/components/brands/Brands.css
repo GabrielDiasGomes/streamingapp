@@ -8,10 +8,7 @@ h1{
     gap: 5rem;
     justify-content: center;
 }
-@media(max-width: 1200px){
-    .navbrands{
-    gap:1rem;}
-}
+
 .navbrands a{
     font-size: 1.5rem;
     

@@ -12,7 +12,7 @@ function card(props) {
             </button>
            
         </div>
-         <Openbtn trigger={buttonPopup} setTrigger={setButtonPopup}/>
+         <Openbtn trigger={buttonPopup} setTrigger={setButtonPopup} capadefilme={props.capa} logodefilme={props.logo} sinopsedefilme={props.sinopse} classificadefilme={props.ci} gedefilme={props.ge}/>
         </>
 
 
