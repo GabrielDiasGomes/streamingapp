@@ -4,7 +4,6 @@ import Menu from './components/menu/Menu';
 import Brands from './components/brands/Brands';
 import Princ from './components/princ/Princ';
 import Footer from './components/footer/Footer'
-import Background from '../src/assets/bg.png'
 
 function App() {
   return (
