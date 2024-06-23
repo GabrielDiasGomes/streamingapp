@@ -19,7 +19,7 @@
 }
 
 .card button{
-    background-color: #1212120e;
+    background:local;
     border: none;
 }
 .card{
