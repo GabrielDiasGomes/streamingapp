@@ -17,7 +17,7 @@ function Menu() {
     <img src={slider} alt='slider' /></button>
     </div>
     </div>
-    <Openbtn trigger={buttonPopup} setTrigger={setButtonPopup} capadefilme={slider} logodefilme={sliderlogo} sinopsedefilme='a' classificadefilme='A14' gedefilme='Ação | Aventura | Fantasia | Ficção-Ciêntifica'/>
+    <Openbtn trigger={buttonPopup} setTrigger={setButtonPopup} capadefilme={slider} logodefilme={sliderlogo} sinopsedefilme='Muitas sociedades de macacos cresceram desde quando César levou seu povo a um oásis, enquanto os humanos foram reduzidos a sobreviver e se esconder nas sombras. Um líder macaco começa a escravizar outros grupos para encontrar tecnologia humana, enquanto um jovem macaco, que viu seu clã ser capturado, embarca em uma viagem para encontrar a liberdade, sendo uma jovem humana a chave para todos.' classificadefilme='A14' gedefilme='Ação | Aventura | Fantasia | Ficção-Ciêntifica'/>
       
     </>
   );
